@@ -15,4 +15,5 @@ public class jjj {
 		  driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		  driver.manage().window().maximize();
 		  driver.get("http://demo.guru99.com/v4/");
+		  //dong xem duoc không;
 		  }
